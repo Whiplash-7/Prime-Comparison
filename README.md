@@ -1,2 +1,2 @@
 # Prime-Comparison
-Compare number to list of known primes
+Module that compares a number to list of known primes
